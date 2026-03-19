@@ -1,2 +1,4 @@
-# Curso
-primeiro repositorio git e github
+# Curso!
+Primeiro repositorio git e github
+
+Repositorio criado durante aula 
